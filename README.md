@@ -11,3 +11,4 @@ Run command `ninja` to build production executable file
 
 - Debugging
 In VScode simply use the shortcut CTRL + F5 to run the debugger
+- NOTE: if you need to build a local .vscode config choose g++
